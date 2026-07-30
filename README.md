@@ -1,5 +1,7 @@
 # A/B Test — Fintech App Feature Adoption
 
+**Author:** Chau N. N. Nguyen, MS, MA
+
 Experiment design, power analysis, and statistical readout for a simulated onboarding-placement test — the full experimentation workflow end to end, including a guardrail metric that gets breached and has to be reasoned about, not rubber-stamped. Question: does placing the round-up savings feature inside onboarding (vs. leaving it in Settings) increase 30-day adoption, and does it come at a cost to onboarding completion?
 
 ## Key results
